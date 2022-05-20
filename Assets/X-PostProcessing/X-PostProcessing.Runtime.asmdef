@@ -1,0 +1,7 @@
+{
+    "name": "X-PostProcessing.Runtime",
+    "references": [
+        "Unity.Postprocessing.Runtime",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ]
+}

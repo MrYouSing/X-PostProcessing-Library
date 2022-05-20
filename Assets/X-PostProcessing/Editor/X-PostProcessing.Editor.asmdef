@@ -1,0 +1,8 @@
+{
+    "name": "X-PostProcessing.Editor",
+    "references": [
+        "Unity.Postprocessing.Runtime",
+        "Unity.Postprocessing.Editor",
+        "X-PostProcessing.Runtime"
+    ]
+}
