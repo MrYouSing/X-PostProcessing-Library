@@ -4,5 +4,9 @@
         "Unity.Postprocessing.Runtime",
         "Unity.Postprocessing.Editor",
         "X-PostProcessing.Runtime"
-    ]
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
 }
